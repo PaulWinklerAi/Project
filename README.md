@@ -1,0 +1,1 @@
+Här är Paul Winklers uppgiftshanterare, den kan användas för att lägga till eller ta bort uppgifter du behöver göra, uppgifterna markeras även som klar / ej klar. Dina uppgifter sparas sedan i en separat fil.
